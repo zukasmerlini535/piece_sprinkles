@@ -1,12 +1,12 @@
 {
-  "name": "advocacy_toad",
-  "version": "1.2.0",
+  "name": "piece_sprinkles",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZukasMerlini535/advocacy_toad"
+    "url": "https://github.com/ZukasMerlini535/piece_sprinkles"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "ZukasMerlini535",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZukasMerlini535/advocacy_toad/issues"
+    "url": "https://github.com/ZukasMerlini535/piece_sprinkles/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -79,7 +79,8 @@
     "utility_amuse": "1.0.0",
     "car_uniformity": "1.0.0",
     "charity_country": "1.0.0",
-    "bestseller_bruise": "1.0.0"
+    "bestseller_bruise": "1.0.0",
+    "advocacy_toad": "1.0.0"
   },
-  "homepage": "https://github.com/ZukasMerlini535/advocacy_toad#README.md"
+  "homepage": "https://github.com/ZukasMerlini535/piece_sprinkles#README.md"
 }
