@@ -1,12 +1,12 @@
 {
-  "name": "car_uniformity",
-  "version": "1.2.0",
+  "name": "charity_country",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZukasMerlini535/car_uniformity"
+    "url": "https://github.com/ZukasMerlini535/charity_country"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "ZukasMerlini535",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZukasMerlini535/car_uniformity/issues"
+    "url": "https://github.com/ZukasMerlini535/charity_country/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -76,7 +76,8 @@
     "policy_solid": "1.0.0",
     "wicked_piety": "1.0.0",
     "better_cuddly": "1.0.0",
-    "utility_amuse": "1.0.0"
+    "utility_amuse": "1.0.0",
+    "car_uniformity": "1.0.0"
   },
-  "homepage": "https://github.com/ZukasMerlini535/car_uniformity#README.md"
+  "homepage": "https://github.com/ZukasMerlini535/charity_country#README.md"
 }
